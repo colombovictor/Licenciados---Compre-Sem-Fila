@@ -91,3 +91,8 @@
         font-size: 13px;
         font-weight: 500;
     }
+    footer{
+        color: red;
+        margin: 10px;
+        text-align: center;
+    }
